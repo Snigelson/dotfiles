@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Minns inte flaggorna för tempium. Kolla backupper
+chromium --no-profile --etcetera
